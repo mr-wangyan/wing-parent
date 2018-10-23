@@ -1,0 +1,9 @@
+server:
+  port: 1314
+student:
+  name: 李四
+  age: 28
+spring:
+  thymeleaf:
+    cache: false
+    mode: HTML5
